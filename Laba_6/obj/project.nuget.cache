@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N417Lnq59XP9WkIncmvQHtX15Zoi4ifP5ZI4ALTIbxKwDELZy8ssFIDPIc29VHgvXm1Pj2cD6Os3RWYxbP00Qw==",
+  "success": true,
+  "projectFilePath": "J:\\Csharp\\All_Laba_CSharp\\Laba_6\\Laba_6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MrUnow\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\MrUnow\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\MrUnow\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

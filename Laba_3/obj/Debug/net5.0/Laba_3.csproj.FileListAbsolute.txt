@@ -1,0 +1,16 @@
+J:\Csharp\All_Laba_CSharp\Laba_3\bin\Debug\net5.0\Laba_3.exe
+J:\Csharp\All_Laba_CSharp\Laba_3\bin\Debug\net5.0\Laba_3.deps.json
+J:\Csharp\All_Laba_CSharp\Laba_3\bin\Debug\net5.0\Laba_3.runtimeconfig.json
+J:\Csharp\All_Laba_CSharp\Laba_3\bin\Debug\net5.0\Laba_3.runtimeconfig.dev.json
+J:\Csharp\All_Laba_CSharp\Laba_3\bin\Debug\net5.0\Laba_3.dll
+J:\Csharp\All_Laba_CSharp\Laba_3\bin\Debug\net5.0\ref\Laba_3.dll
+J:\Csharp\All_Laba_CSharp\Laba_3\bin\Debug\net5.0\Laba_3.pdb
+J:\Csharp\All_Laba_CSharp\Laba_3\obj\Debug\net5.0\Laba_3.csproj.AssemblyReference.cache
+J:\Csharp\All_Laba_CSharp\Laba_3\obj\Debug\net5.0\Laba_3.GeneratedMSBuildEditorConfig.editorconfig
+J:\Csharp\All_Laba_CSharp\Laba_3\obj\Debug\net5.0\Laba_3.AssemblyInfoInputs.cache
+J:\Csharp\All_Laba_CSharp\Laba_3\obj\Debug\net5.0\Laba_3.AssemblyInfo.cs
+J:\Csharp\All_Laba_CSharp\Laba_3\obj\Debug\net5.0\Laba_3.csproj.CoreCompileInputs.cache
+J:\Csharp\All_Laba_CSharp\Laba_3\obj\Debug\net5.0\Laba_3.dll
+J:\Csharp\All_Laba_CSharp\Laba_3\obj\Debug\net5.0\ref\Laba_3.dll
+J:\Csharp\All_Laba_CSharp\Laba_3\obj\Debug\net5.0\Laba_3.pdb
+J:\Csharp\All_Laba_CSharp\Laba_3\obj\Debug\net5.0\Laba_3.genruntimeconfig.cache
